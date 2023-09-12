@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there! 👋
 
+Specialized in Java 8+ and Spring Boot, but I’m also skilled in front-end development with JavaScript and TypeScript. 
+
+- Interesting in building high scalable and performant applications.
+- Learning Goland and Python in the way.
+- CryptoBro
+  
 <!--
 **3ntropia/3ntropia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
