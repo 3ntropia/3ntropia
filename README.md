@@ -3,7 +3,7 @@
 Specialized in Java 8+ and Spring Boot, but I’m also skilled in front-end development with JavaScript and TypeScript. 
 
 - Interesting in building high scalable and performant applications.
-- Learning Goland and Python in the way.
+- Learning Goland and Python on the way.
 - CryptoBro
   
 <!--
