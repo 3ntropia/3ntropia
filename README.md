@@ -1,14 +1,13 @@
 ### Hello there! 👋
 
-I'm Martin - a passionate developer specialized in **Java 8+ and Spring Boot**! I also skilled in front-end development, wielding both JavaScript and TypeScript. 💻
-
+💻 I'm Martin - a passionate developer specialized in **Java 8+ and Spring Boot**! I also skilled in front-end development, wielding both JavaScript and TypeScript. 
+Extensive experience with Spring Boot, leveraging it to create secure and efficient applications.
 
 
 #### 🚀 Skills & Expertise:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- **Back-End Development:** With a specialty in Java 8+, I build robust, scalable, and performant backend systems. 
-- **Front-End Development:** Proficient in crafting interfaces with JavaScript and TypeScript.
-- **Framework Knowledge:** Extensive experience with Spring Boot, leveraging it to create secure and efficient applications.
+- **Back-End:** With a specialty in Java 8+, I build robust, scalable, and performant backend systems. 
+- **Front-End:** Proficient in crafting interfaces with JavaScript and TypeScript.
 
 #### 🌱 Learning Journey:
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
