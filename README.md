@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Martin a passionate developer specialized in **Java 8+ and Spring Boot**! I also skilled in front-end development, wielding both JavaScript and TypeScript. 💻
+I'm Martin - a passionate developer specialized in **Java 8+ and Spring Boot**! I also skilled in front-end development, wielding both JavaScript and TypeScript. 💻
 
 
 
